@@ -2,13 +2,13 @@
 Projeto de Redes Sociais
 
 <p align="center" >
-<img src="images/screenshot.png" alt="Demonstração do Projeto" width="100%" />
+<img src="imagens/screenshot.png" alt="Demonstração do Projeto" width="100%" />
 
 </p>
 
 ## 🖥️ Projeto
 
-Projeto tela de login. Layout produzido para login de um site de um prédio/ condomínio. Layout responsivo, usando Flexbox e media query. 
+Projeto Redes Sociais. Projeto trabalhado com frames. Ao clicar num ícone no canto direito, criamos um frame dentro do celular para apresentar a imagem da rede social como se estivesse na própria rede social.
 
 ## 🚀 Tecnologias
 
